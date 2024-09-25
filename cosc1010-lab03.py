@@ -17,11 +17,12 @@
 print("Part One------------------------------------------------------------------------")
 #We are going to start with the basics. Declare a list  states that contains the elements: Wyoming, Colorado, Montana in that order 
 #Note this is the ONLY point where you need to declare the states list
-states=[Wyoming
+states=["Wyoming", "Colorado","Montana"]
+
 
 
 #print the entire list
-
+print(states)
 
 #now print the first element in the list
 
